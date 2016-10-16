@@ -2,9 +2,9 @@
 Project for first Purdue Hack-a-thon
 
 Contributors:
-  Aditya Jariwala
-  Sarmad Javed
-  Mitch Palin
+  Aditya Jariwala,
+  Sarmad Javed,
+  Mitch Palin, and
   Chase Nelson
   
 Apollo uses your Android deviece's bluetooth to send and recieve messages

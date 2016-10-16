@@ -7,7 +7,4 @@ Contributors:
   Mitch Palin
   Chase Nelson
   
-  Idea: Fireside chat
-    using P2P communication
-    chat app to communicate without wifi, signal, or bluetooth (MESH Network)
-    Create great UI
+Apollo uses your Android deviece's bluetooth to send and recieve messages
